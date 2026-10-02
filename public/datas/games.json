@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Elden Ring",
+    "developer": "FromSoftware",
+    "genre": ["Action-RPG"],
+    "platforms": ["Windows", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series", "Nintendo Switch 2"],
+    "releaseDate": "25 février 2022",
+    "status": "Terminé",
+    "rating": 5,
+    "cover": "/images/games/elden-ring.png"
+  },
+  {
+    "id": 2,
+    "title": "Monster Hunter Wilds",
+    "developer": "Capcom",
+    "genre": ["Action RPG"],
+    "platforms": ["Microsoft Windows", "PlayStation 5", "Xbox Series"],
+    "releaseDate": "28 février 2025",
+    "status": "Terminé",
+    "rating": 5,
+    "cover": "/images/games/monster-hunter-wilds.png"
+  },
+  {
+    "id": 3,
+    "title": "League of Legends",
+    "developer": "Riot Games",
+    "genre": ["MOBA"],
+    "platforms": ["Windows", "macOS"],
+    "releaseDate": "27 octobre 2009",
+    "status": "Terminé",
+    "rating": 5,
+    "cover": "/images/games/league-of-legends.webp"
+  },
+  {
+    "id": 4,
+    "title": "Grand Theft Auto V",
+    "developer": "Rockstar",
+    "genre": ["Tir à la troisième personne", "tir à la première personne", "action-aventure"],
+    "platforms": ["Proton", "Windows", "PlayStation 3", "Xbox 360", "PlayStation 4", "Xbox One", "PlayStation 5", "Xbox Series"],
+    "releaseDate": "17 septembre 2013",
+    "status": "Terminé",
+    "rating": 5,
+    "cover": "/images/games/grand-theft-auto-5.webp"
+  }
+]
