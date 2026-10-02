@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "title": "Tokyo Ghoul",
+    "author": "Ishida Sui",
+    "genre": ["Action", "Drame", "Horreur", "Mature", "Mystère", "Psychologique", "Surnaturel"],
+    "status": "Terminé",
+    "volumes": 14,
+    "volumesOwned": 14,
+    "cover": "/images/mangas/tokyo-ghoul.webp",
+    "rating": 8.92
+  },
+
+  {
+    "id": 2,
+    "title": "Tokyo Ghoul : Re",
+    "author": "Ishida Sui",
+    "genre": ["Action", "Drame", "Horreur", "Mature", "Mystère", "Psychologique", "Surnaturel"],
+    "status": "Terminé",
+    "volumes": 16,
+    "volumesOwned": 16,
+    "cover": "/images/mangas/tokyo-ghoul-re.webp",
+    "rating": 8.82
+  },
+
+  {
+    "id": 3,
+    "title": "Splatoon",
+    "author": "Hinodeya Sankichi",
+    "genre": ["Comédie", "Fantastique"],
+    "status": "Terminé",
+    "volumes": 16,
+    "volumesOwned": 16,
+    "cover": "/images/mangas/splatoon.webp",
+    "rating": 7.34
+  },
+
+  {
+    "id": 4,
+    "title": "Splatoon : La contrée éclabousse",
+    "author": "Hinodeya Sankichi",
+    "genre": ["Action", "Comédie"],
+    "status": "En cours",
+    "volumes": 7,
+    "volumesOwned": "?",
+    "cover": "/images/mangas/splatoon-la-contree-eclabousse.webp",
+    "rating": 8.6
+  },
+
+  {
+    "id": 5,
+    "title": "Splatoon : Histoires poulpes",
+    "author": "Goto Hideki",
+    "genre": ["Aventure", "Comédie", "Fantastique", "Yonkoma"],
+    "status": "En cours",
+    "volumes": 7,
+    "volumesOwned": "?",
+    "cover": "/images/mangas/splatoon-histoires-poulpes.webp",
+    "rating": 5.75
+  },
+
+  {
+    "id": 6,
+    "title": "Fairy Tail",
+    "author": "Mashima Hiro",
+    "genre": ["Action", "Aventure", "Comédie", "Ecchi", "Fantasy", "Nekketsu"],
+    "status": "Terminé",
+    "volumes": 63,
+    "volumesOwned": "?",
+    "cover": "/images/mangas/fairy-tail.webp",
+    "rating": 8.38
+  },
+
+  {
+    "id": 7,
+    "title": "Dragon Ball",
+    "author": "Toriyama Akira",
+    "genre": ["Action", "Aventure", "Comédie"],
+    "status": "Terminé",
+    "volumes": 42,
+    "volumesOwned": 42,
+    "cover": "/images/mangas/dragon-ball.webp",
+    "rating": 9.08
+  },
+
+  {
+    "id": 8,
+    "title": "Dragon Ball : Super",
+    "author": "Toriyama Akira",
+    "genre": ["Action", "Aventure", "Comédie", "Fantasy"],
+    "status": "En attente",
+    "volumes": 24,
+    "volumesOwned": "?",
+    "cover": "/images/mangas/dragon-ball-super.webp",
+    "rating": 7.16
+  },
+
+  {
+    "id": 9,
+    "title": "Pokémon : Soleil et Lune",
+    "author": "Kusaka Hidenori",
+    "genre": ["Action", "Aventure", "Comédie"],
+    "status": "Terminé",
+    "volumes": 6,
+    "volumesOwned": 6,
+    "cover": "/images/mangas/pokemon-soleil-et-lune.webp",
+    "rating": 7.5
+  },
+
+  {
+    "id": 10,
+    "title": "Darwin's Game",
+    "author": "FLIPFLOPs",
+    "genre": ["Action", "Mystère", "Science-fiction", "Thriller"],
+    "status": "Terminé",
+    "volumes": 30,
+    "volumesOwned": 2,
+    "cover": "/images/mangas/darwins-game.webp",
+    "rating": 8.5
+  },
+
+  {
+    "id": 11,
+    "title": "Ubel Blatt",
+    "author": "Shiono Etoroji",
+    "genre": ["Action", "Aventure", "Fantasy", "Horreur", "Mature", "Tragique"],
+    "status": "Terminé",
+    "volumes": 23,
+    "volumesOwned": 2,
+    "cover": "/images/mangas/ubel-blatt.webp",
+    "rating": 8.33
+  },
+
+  {
+    "id": 12,
+    "title": "Vigilante : My Hero Academia Illegals",
+    "author": "Furuhashi Hideyuki",
+    "genre": ["Action", "Comédie", "Drame", "Surnaturel"],
+    "status": "Terminé",
+    "volumes": 15,
+    "volumesOwned": 2,
+    "cover": "/images/mangas/vigilante-my-hero-academia-illegals.webp",
+    "rating": 8.01
+  }
+]
